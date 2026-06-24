@@ -1,6 +1,6 @@
 # Generalized Graph Signal Sampling by Difference-of-Convex Optimization
 
-This repository provides the official MATLAB demonstration code for the algorithms proposed in our paper: **"Generalized Graph Signal Sampling by Difference-of-Convex Optimization"**.
+This repository provides the official MATLAB demonstration code for the algorithms proposed in our paper: **"Generalized Graph Signal Sampling by Difference-of-Convex Optimization"** (Available on [arXiv:2306.14634](https://arxiv.org/abs/2306.14634)).
 
 Our framework designs sampling operators for generalized graph signals under arbitrary graph signal priors via difference-of-convex (DC) optimization and executes signal recovery.
 
@@ -38,7 +38,7 @@ The repository consists of the following core files:
 If you use this code or find our method helpful in your research, please cite our arXiv preprint:
 
 ```bibtex
-@misc{yamashita2025generalizedgraphsignalsampling,
+@misc{yamashita2025generalized,
   title={Generalized Graph Signal Sampling by Difference-of-Convex Optimization}, 
   author={Keitaro Yamashita and Kazuki Naganuma and Shunsuke Ono},
   year={2026},
