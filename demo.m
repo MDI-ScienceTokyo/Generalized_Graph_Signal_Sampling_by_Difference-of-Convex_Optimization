@@ -13,7 +13,7 @@
 %   cite the following paper:
 %
 %   K. Yamashita, K. Naganuma, and S. Ono, "Generalized Graph Signal Sampling 
-%   by Difference-of-Convex Optimization," arXiv preprint arXiv:2306.14634, 2025.
+%   by Difference-of-Convex Optimization," arXiv preprint arXiv:2306.14634, 2026.
 %   URL: https://arxiv.org/abs/2306.14634
 %
 % [Prerequisites]
