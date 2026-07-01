@@ -38,7 +38,7 @@ The repository consists of the following core files:
 If you use this code or find our method helpful in your research, please cite our arXiv preprint:
 
 ```bibtex
-@misc{yamashita2025generalized,
+@misc{yamashita2026generalized,
   title={Generalized Graph Signal Sampling by Difference-of-Convex Optimization}, 
   author={Keitaro Yamashita and Kazuki Naganuma and Shunsuke Ono},
   year={2026},
